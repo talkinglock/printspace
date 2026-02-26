@@ -8,15 +8,15 @@ really bad technically working CLI for showing drive space
 Install the release exe
 Make it runnable
 ```
-chmod +x printspace
+chmod +x printspace.exe
 ```
 Add it to bin
 ```
-sudo cp printspace /usr/local/bin/
+sudo cp printspace.exe /usr/local/bin/
 ```
 
 Done. 
 ```
-printspace
+printspace.exe
 ```
 ^ Run to use.
