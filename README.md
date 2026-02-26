@@ -6,6 +6,7 @@ really bad technically working CLI for showing drive space
 ## HOW TO INSTALL ##
 
 Install the release
+
 Make it runnable
 ```
 chmod +x printspace
