@@ -5,18 +5,18 @@ really bad technically working CLI for showing drive space
 
 ## HOW TO INSTALL ##
 
-Install the release exe
+Install the release
 Make it runnable
 ```
-chmod +x printspace.exe
+chmod +x printspace
 ```
 Add it to bin
 ```
-sudo cp printspace.exe /usr/local/bin/
+sudo cp printspace /usr/local/bin/
 ```
 
 Done. 
 ```
-printspace.exe
+printspace
 ```
 ^ Run to use.
