@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/printspace.dir/link.d CMakeFiles/printspace.dir/main.cpp.o -o printspace

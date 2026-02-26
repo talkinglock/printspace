@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/gransugar/Stuff/printspace/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/printspace.dir/main.cpp.o -c /home/gransugar/Stuff/printspace/main.cpp",
+  "file": "/home/gransugar/Stuff/printspace/main.cpp",
+  "output": "/home/gransugar/Stuff/printspace/build/CMakeFiles/printspace.dir/main.cpp.o"
+}
+]

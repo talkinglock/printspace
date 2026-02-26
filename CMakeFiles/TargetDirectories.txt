@@ -1,0 +1,3 @@
+/home/gransugar/Stuff/printspace/CMakeFiles/printspace.dir
+/home/gransugar/Stuff/printspace/CMakeFiles/edit_cache.dir
+/home/gransugar/Stuff/printspace/CMakeFiles/rebuild_cache.dir
